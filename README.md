@@ -1,4 +1,4 @@
-# 🏆 Stacking Ensemble Model
+# 🏆 Kaggle 1등 Solution - Stacking Ensemble Model
 
 이 프로젝트는 **Stacking Ensemble Model**을 활용하여 예측 성능을 향상시키는 방법을 설명합니다.  
 해당 모델은 여러 개의 기본 모델(Level 0)을 훈련한 후, 이들의 출력을 메타 모델(Level 1)에 입력하여 최종 예측을 수행합니다.
